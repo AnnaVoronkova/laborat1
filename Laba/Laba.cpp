@@ -105,7 +105,7 @@ int main()
             int q1 = 0;
             cin >> q1;
             if (q1 == 0) {
-                //
+                // ghklojfg
             }
         }
         if (k == 2) {
