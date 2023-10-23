@@ -1,4 +1,5 @@
 ﻿  Laba.cpp
-C:\project\git2\labba1\Laba\Laba.cpp(6,1): warning C4005: N: изменение макроопределения
-C:\project\git2\labba1\Laba\izdanie.h(7,1): message : см. предыдущее определение "N"
-  Laba.vcxproj -> C:\project\git2\labba1\Laba\x64\Debug\Laba.exe
+C:\project\git4\third\laborat1\Laba\Laba.cpp(6,1): warning C4005: N: изменение макроопределения
+C:\project\git4\third\laborat1\Laba\izdanie.h(7,1): message : см. предыдущее определение "N"
+  LINK : не найден или не выполнена сборка C:\project\git4\third\laborat1\Laba\x64\Debug\Laba.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Laba.vcxproj -> C:\project\git4\third\laborat1\Laba\x64\Debug\Laba.exe

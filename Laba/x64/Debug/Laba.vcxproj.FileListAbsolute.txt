@@ -1,2 +1,3 @@
 C:\Users\Анна\Desktop\progs\Laba\x64\Debug\Laba.exe
 C:\project\git2\labba1\Laba\x64\Debug\Laba.exe
+C:\project\git4\third\laborat1\Laba\x64\Debug\Laba.exe
